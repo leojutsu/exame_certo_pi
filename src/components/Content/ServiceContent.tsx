@@ -33,7 +33,7 @@ export default function ServiceContent() {
                 </div>
 
                 <div className="bg-white p-6 rounded-lg shadow-lg transition-transform transform hover:scale-105">
-                    <h3 className="text-2xl font-semibold text-gray-900 mb-4">Perfil de Paciente</h3>
+                    <h3 className="text-2xl font-semibold text-gray-900 mb-4">Perfil do Paciente</h3>
                     <p className="text-gray-600 mb-4">
                         O paciente pode acessar e visualizar seus exames a qualquer momento, através de um computador, tablet ou smartphone, de forma simples e intuitiva.
                     </p>
